@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Pages/Forms/Delete.cshtml",
+      "TargetPath": "Pages\\Forms\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Pages/_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15669,6 +15674,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Pages/Forms/Details.cshtml",
+      "TargetPath": "Pages\\Forms\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Areas/Identity/Pages/_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15694,8 +15704,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Pages/Forms/Create.cshtml",
+      "TargetPath": "Pages\\Forms\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Areas/Identity/Pages/Account/Register.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Pages/Forms/Index.cshtml",
+      "TargetPath": "Pages\\Forms\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/Pages/Forms/Edit.cshtml",
+      "TargetPath": "Pages\\Forms\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],

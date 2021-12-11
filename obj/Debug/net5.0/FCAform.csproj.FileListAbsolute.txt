@@ -161,3 +161,8 @@
 /Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
 /Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
 /Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Pages/Forms/Create.cshtml.g.cs
+/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Pages/Forms/Delete.cshtml.g.cs
+/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Pages/Forms/Details.cshtml.g.cs
+/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Pages/Forms/Edit.cshtml.g.cs
+/Users/isiahescobal/CIDM 4390/FinalProject/FCAform/obj/Debug/net5.0/Razor/Pages/Forms/Index.cshtml.g.cs
